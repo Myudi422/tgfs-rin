@@ -8,7 +8,6 @@
   ],
   "repository": "https://github.com/Wahyu213/Okaeri-File",
   "logo": "https://telegra.ph/file/4841c48a092ebe7b87705.jpg",
-  },
   "addons": [
     {
     "plan": "heroku-postgresql",
