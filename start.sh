@@ -1,3 +1,3 @@
-git clone "https://github.com/Myudi422/indez" tgfs
+git clone "https://github.com/Myudi422/multi-rinbot" tgfs
 cd tgfs
-python -m WebStreamer
+python3 main.py
